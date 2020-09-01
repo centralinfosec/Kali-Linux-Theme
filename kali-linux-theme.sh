@@ -190,6 +190,48 @@ sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/profile.png /home/kali/.face
 sudo cp /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/kali-menu.svg /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/kali-menu-BAK.svg
 sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/profile.png /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/kali-menu.svg
 
+# 2020.3
+sudo cp /usr/share/backgrounds/kali/kali-mesh-4x3.png /usr/share/backgrounds/kali/kali-mesh-4x3-BAK.png
+sudo cp /usr/share/backgrounds/kali/kali-mesh-16x9.png /usr/share/backgrounds/kali/kali-mesh-16x9-BAK.png
+sudo cp /usr/share/backgrounds/kali/kali-mesh-16x10.png /usr/share/backgrounds/kali/kali-mesh-16x10-BAK.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /usr/share/backgrounds/kali/kali-mesh-4x3.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /usr/share/backgrounds/kali/kali-mesh-16x9.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /usr/share/backgrounds/kali/kali-mesh-16x10.png
+
+sudo cp /usr/share/backgrounds/kali/kali-rings-4x3.png /usr/share/backgrounds/kali/kali-rings-4x3-BAK.png
+sudo cp /usr/share/backgrounds/kali/kali-rings-16x9.png /usr/share/backgrounds/kali/kali-rings-16x9-BAK.png
+sudo cp /usr/share/backgrounds/kali/kali-rings-16x10.png /usr/share/backgrounds/kali/kali-rings-16x10-BAK.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /usr/share/backgrounds/kali/kali-rings-4x3.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /usr/share/backgrounds/kali/kali-rings-16x9.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /usr/share/backgrounds/kali/kali-rings-16x10.png
+
+sudo cp /usr/share/backgrounds/kali/kali-blur-4x3.png /usr/share/backgrounds/kali/kali-blur-4x3-BAK.png
+sudo cp /usr/share/backgrounds/kali/kali-blur-16x9.png /usr/share/backgrounds/kali/kali-blur-16x9-BAK.png
+sudo cp /usr/share/backgrounds/kali/kali-blur-16x10.png /usr/share/backgrounds/kali/kali-blur-16x10-BAK.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/screensaver.png /usr/share/backgrounds/kali/kali-blur-4x3.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/screensaver.png /usr/share/backgrounds/kali/kali-blur-16x9.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/screensaver.png /usr/share/backgrounds/kali/kali-blur-16x10.png
+
+sudo cp /etc/skel/.face /etc/skel/.face-BAK
+sudo cp /etc/skel/.face.icon /etc/skel/.face-BAK.icon
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/profile.png /etc/skel/.face
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/profile.png /etc/skel/.face.icon
+
+sudo cp /boot/grub/themes/kali/background.png /boot/grub/themes/kali/background-BAK.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /boot/grub/themes/kali/background.png
+
+sudo cp /usr/share/grub/themes/kali/background.png /usr/share/grub/themes/kali/background-BAK.png
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/background-small.png /usr/share/grub/themes/kali/background.png
+
+sudo cp /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/distributor-logo-kali.svg /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/distributor-logo-kali-BAK.svg
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/profile.png /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/distributor-logo-kali.svg
+
+sudo cp /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/kali-panel-menu.svg /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/kali-panel-menu-BAK.svg
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/profile.png /usr/share/icons/Flat-Remix-Blue-Dark/apps/scalable/kali-panel-menu.svg
+
+sudo cp /usr/share/icons/hicolor/scalable/emblems/emblem-kali.svg /usr/share/icons/hicolor/scalable/emblems/emblem-kali-BAK.svg
+sudo cp /opt/Central-InfoSec/Kali-Linux-Theme/img/profile.png /usr/share/icons/hicolor/scalable/emblems/emblem-kali.svg
+
 # Allow the background image to be readable
 chmod +r "/opt/$name/Kali-Linux-Theme/img/background-small.png"
 
